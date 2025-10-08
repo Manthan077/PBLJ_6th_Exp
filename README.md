@@ -47,7 +47,4 @@ java-lambda-stream-examples/
 - Functional-style data processing in Java
 
 
-
-If you want, I can also make a **version with badges and example output** so your GitHub README looks really professional and visually appealing.  
-
 Do you want me to do that next?

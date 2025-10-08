@@ -31,11 +31,14 @@ This repository contains Java programs demonstrating the use of **lambda express
 
 ## Project Structure
 
-java-lambda-stream-examples/
-│
+java-lambda-stream-examples
+
 ├── EmployeeSort.java        # Sorting Employee objects using lambda expressions
+
 ├── StudentProcessor.java    # Filtering and sorting students using streams
+
 ├── ProductAnalytics.java    # Stream operations on Product dataset
+
 └── README.md                # Project documentation
 
 ## Key Concepts Covered
@@ -45,6 +48,3 @@ java-lambda-stream-examples/
 - Stream operations: filter(), map(), sorted(), forEach()
 - Collectors: groupingBy(), maxBy(), averagingDouble()
 - Functional-style data processing in Java
-
-
-Do you want me to do that next?
